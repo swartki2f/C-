@@ -12,7 +12,19 @@ class Program
         string nom= Console.ReadLine();
 
         Console.WriteLine("saisir votre age  ");
-        string age= Console.ReadLine();
+        //string age=
+
+        //pour convertir : on utulise $Parse exemple:
+        // int age_int= int.Parse(age_str)//
+
+        //int age_num= int.Parse(age_str);
+        //age_p= age_num +1;
+
+        string nombreTexte =Console.ReadLine();
+        int agen = int.Parse(nombreTexte);
+        int age = agen + 1; 
+        
+
         Console.WriteLine("je suis "+nom+" j'ai "+age+"ans");
 
 

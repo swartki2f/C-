@@ -1,0 +1,15 @@
+/home/ejeune/Documents/C#/bin/Debug/net9.0/C#
+/home/ejeune/Documents/C#/bin/Debug/net9.0/C#.deps.json
+/home/ejeune/Documents/C#/bin/Debug/net9.0/C#.runtimeconfig.json
+/home/ejeune/Documents/C#/bin/Debug/net9.0/C#.dll
+/home/ejeune/Documents/C#/bin/Debug/net9.0/C#.pdb
+/home/ejeune/Documents/C#/obj/Debug/net9.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/ejeune/Documents/C#/obj/Debug/net9.0/C#.AssemblyInfoInputs.cache
+/home/ejeune/Documents/C#/obj/Debug/net9.0/C#.AssemblyInfo.cs
+/home/ejeune/Documents/C#/obj/Debug/net9.0/C#.csproj.CoreCompileInputs.cache
+/home/ejeune/Documents/C#/obj/Debug/net9.0/C#.sourcelink.json
+/home/ejeune/Documents/C#/obj/Debug/net9.0/C#.dll
+/home/ejeune/Documents/C#/obj/Debug/net9.0/refint/C#.dll
+/home/ejeune/Documents/C#/obj/Debug/net9.0/C#.pdb
+/home/ejeune/Documents/C#/obj/Debug/net9.0/C#.genruntimeconfig.cache
+/home/ejeune/Documents/C#/obj/Debug/net9.0/ref/C#.dll
